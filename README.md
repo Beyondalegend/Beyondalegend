@@ -13,9 +13,7 @@
 
 - 📫 How to reach me **rostami.kamiab1998@gmail.com**
 
-<video align="right" width="640" height="480" controls>
-  <source src="https://cdn.dribbble.com/users/427857/screenshots/16083559/media/010027178b608a6bc62a28f02ba14d09.mp4" type="video/mp4">
-</video>
+<img align="right" width="400" alt="Developing" src="https://cdn.dribbble.com/users/1355613/screenshots/12585865/media/5bb86f4446b33a7a4624db3660398cd8.jpg">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kamiabrostami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kamiabrostami" height="30" width="40" /></a>
